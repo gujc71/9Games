@@ -10,6 +10,10 @@ React 기반의 모바일 미니게임 포털입니다. (벽돌깨기, 미로찾
 
 [Getting started](https://github.com/gujc71/9Games)
 
+## GitHub Pages 배포
+
+이 저장소의 루트가 `gujc71.github.io/9Games/`의 배포 디렉터리입니다. 정적 파일 경로와 SPA 라우터 basename은 `/9Games`에 맞춰져 있으므로, 파일을 저장소 루트에 배포해야 합니다.
+
 ---
 
 ## 기술 스택
