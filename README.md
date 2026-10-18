@@ -8,7 +8,7 @@ React 기반의 모바일 미니게임 포털입니다. (벽돌깨기, 미로찾
 
 ## 실행 방법
 
-[Getting started](https://github.com/gujc71/9Games)
+[Getting started](https://gujc71.github.io/9Games/)
 
 ## GitHub Pages 배포
 
